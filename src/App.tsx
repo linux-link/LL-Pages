@@ -4,7 +4,7 @@ import { ChakraProvider, ColorModeProvider } from '@chakra-ui/react';
 function App() {
     return (
         <ChakraProvider>
-            <ColorModeProvider options={{ initialColorMode: "auto" }}>
+            <ColorModeProvider options={{ initialColorMode: "dark" }}>
                 <Container maxW="container.md">
                     <Box borderRadius="lg" color="white"
                         bg="blue.500" p={3} margin={3}>
