@@ -6,7 +6,7 @@ function App() {
         <Container maxW="container.md">
             <Box borderRadius="lg" color="white"
                  bg="blue.500" p={3} margin={3}>
-                <Text>Hello World!</Text>
+                <Text>Linux Link</Text>
             </Box>
         </Container>
     );
